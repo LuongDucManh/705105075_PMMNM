@@ -7,3 +7,4 @@ git status // kiểm tra trạng thái
 git commit -m"comment" // Cập nhật
 git push // Up lên github
 git config // Để thêm thông tin khi lần đầu dùng Git hush.
+git rm chao.py // Để xóa file đó, xóa xong status cập nhật rồi commit và push nó.
