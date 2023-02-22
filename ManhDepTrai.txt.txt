@@ -1,6 +1,9 @@
 Xin chào, Uzui Tengen Siuuuuu
-git add * // Thêm sau chỉnh sửa
+dir // Liệt kê ra các tệp trong file
+python Hello.py.py // chạy file Hello.py bằng python đã cài trong máy
+git init // quản lý lịch sử thay đổi, ko hiểu lệnh này lắm :v 
+git add * // Thêm sau chỉnh sửa (* là all, hoặc ghi mỗi tên tệp đó thoiii)
 git status // kiểm tra trạng thái
 git commit -m"comment" // Cập nhật
 git push // Up lên github
-
+git config // Để thêm thông tin khi lần đầu dùng Git hush.
