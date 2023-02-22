@@ -1,0 +1,6 @@
+Xin chào, Uzui Tengen Siuuuuu
+git add * // Thêm sau chỉnh sửa
+git status // kiểm tra trạng thái
+git commit -m"comment" // Cập nhật
+git push // Up lên github
+
