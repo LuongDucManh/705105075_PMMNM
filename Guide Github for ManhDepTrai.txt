@@ -1,4 +1,6 @@
-Xin chào, Uzui Tengen Siuuuuu
+Xin chào, Uzui Tengen Siuuuuu 
+Mạnh giới thiệu một số lệnh cơ bản để dùng Git mà Mạnh kiếm được, giải thích
+theo cách hiểu của Mạnh nên có thể có sai sót, mong anh em thông cảm. <3
 dir // Liệt kê ra các tệp trong file
 python Hello.py.py // chạy file Hello.py bằng python đã cài trong máy
 git init Tên file  // tạo ra một folder mới
@@ -17,5 +19,6 @@ git rebase // Thấy bảo viết lại lịch sử rẽ nhánh như trong Aveng
 git stash // Dùng lệnh rebase mà lỗi thì dùng lệnh này trước đã để lưu thay đổi tạm thời
 git stash apply // rebase xong thì dùng nó để khôi phục thay đổi
 git branch -d Tên_nhánh // xóa nhánh
-rm tên_thư_mục / xóa thư mục
-mv tên_thư_mục ~/.Trash
+rm tên_thư_mục // xóa thư mục
+mv tên_thư_mục ~/.Trash // xóa thư mục
+git rm <đường_dẫn_đến_file/Chao_mn> // xóa thư mục
