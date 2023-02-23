@@ -1,7 +1,7 @@
 Xin chào, Uzui Tengen Siuuuuu
 dir // Liệt kê ra các tệp trong file
 python Hello.py.py // chạy file Hello.py bằng python đã cài trong máy
-git init // tạo ra một mục git mà đ hiểu sao nó đ hiện, seach theo link nó đưa thì mới ra
+git init Tên file  // tạo ra một folder mới
 git add * // Thêm sau chỉnh sửa (* là all, hoặc ghi mỗi tên tệp đó thoiii)
 git status // kiểm tra trạng thái
 git commit -m"comment" // Cập nhật
@@ -9,3 +9,12 @@ git push // Up lên github
 git config // Để thêm thông tin khi lần đầu dùng Git hush.
 git rm chao.py // Để xóa file đó, xóa xong status cập nhật rồi commit và push nó.
 git remote add origin Link github // CHo nó vào link github
+git branch ten_nhanh // Tạo nhánh mới
+git branch // kiểm tra nhánh in đậm xanh nhánh nào là đang ở nhánh đó
+git checkout tên_nhánh // đổi sang tên nhánh đó
+git merge tên_nhánh // kết hợp nhánh đó với nhánh đang ở (Muốn biết nhánh đang ở thì dùng branch)
+git rebase // Thấy bảo viết lại lịch sử rẽ nhánh như trong Avengers Endgame cơ mà chả hiểu lắm, nói chung chắc kiểu gộp nhánh gì đó cơ mà ở nhánh mới dùng lệnh này thì phải
+git stash // Dùng lệnh rebase mà lỗi thì dùng lệnh này trước đã để lưu thay đổi tạm thời
+git stash apply // rebase xong thì dùng nó để khôi phục thay đổi
+git branch -d Tên_nhánh // xóa nhánh
+
