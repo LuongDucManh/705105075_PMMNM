@@ -17,4 +17,5 @@ git rebase // Thấy bảo viết lại lịch sử rẽ nhánh như trong Aveng
 git stash // Dùng lệnh rebase mà lỗi thì dùng lệnh này trước đã để lưu thay đổi tạm thời
 git stash apply // rebase xong thì dùng nó để khôi phục thay đổi
 git branch -d Tên_nhánh // xóa nhánh
-
+rm tên_thư_mục / xóa thư mục
+mv tên_thư_mục ~/.Trash
